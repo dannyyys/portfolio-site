@@ -19,7 +19,7 @@ export default function App(props: AppProps) {
     <>
       <JssProvider generateId={createGenerateId({ minify: true })}>
         <Head>
-          <title>Mantine next example</title>
+          <title>YS portfolio</title>
           <meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width" />
         </Head>
 
